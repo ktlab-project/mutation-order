@@ -5,7 +5,7 @@
 ### WEBAPP
 
 ### CONTACT
-Please contact Principal Investigator, [Kochi Takahashi]<ktakahashi@mdanderson.org> with any questions or suggestions.
+Please contact Principal Investigator, [Kochi Takahashi](<ktakahashi@mdanderson.org>) with any questions or suggestions.
 
 ### WEBSITE
 The documentation and source code can be found at [https://github.com/ktlab-project/mutation-order](https://github.com/ktlab-project/mutation-order)
