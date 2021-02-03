@@ -15,7 +15,7 @@ Please contact Principal Investigator, <ktakahashi@mdanderson.org> with any ques
 
 
 ### WEBSITE
-The documentation and source code can be found at [https://github.com/ktlab-project/mutation-order](https://github.com/ktlab-project/mutation-order)
+The documentation and source code can be found at [https://github.com/ktlab-project/mutation-order](https://ktlab-project.github.io/mutation-order/)
 
 
 ### LICENCE
