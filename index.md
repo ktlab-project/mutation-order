@@ -9,29 +9,15 @@ We have created a web app so that you can easily adapt the results of our analys
 
 
 ```markdown
-Syntax highlighted code block
+- First, select the name of the gene you are interested in from the initial mutations in the upper left box. It will then display interactive table that when the selected initial gene is obtained.
 
-# Header 1
-## Header 2
-### Header 3
+- Second, select the desired order in left middle box. It will then display the bar chart and table of the joint probability of acquiring the genes in that order when the selected initial gene is acquired.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Finally, when checked in left bottom box., the image of the initial gene is displayed when it is acquired. You can also download that image.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ktlab-project/mutation-order/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Navigation
+This contains the code that accompany the manuscript. This codes were written in notebook(.ipynb) using Python and R.
 
 ### CONTACT
-
 Please contact Principal Investigator, <ktakahashi@mdanderson.org> with any questions or suggestions.
