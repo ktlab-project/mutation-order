@@ -10,13 +10,14 @@ This dipository includes codes for processing dataset into the probabilities of 
 This map provides the novel perspectives firstly for risk stratification, secondly for treatment strategies of pre-acquisition mutations targeting, and thirdly would for predicting treatment response.
 
 
+### NAVIGATION
+The documentation and source code can be found at [https://github.com/ktlab-project/mutation-order](https://ktlab-project.github.io/mutation-order/)
+
+
 ### CONTACT
 Please contact Principal Investigator, <ktakahashi@mdanderson.org> with any questions or suggestions.
 
 
-### WEBSITE
-The documentation and source code can be found at [https://github.com/ktlab-project/mutation-order](https://ktlab-project.github.io/mutation-order/)
-
-
 ### LICENCE
 This project is under the MIT license - see the [LICENSE](https://github.com/ktlab-project/mutation-order/blob/main/LICENSE) in details.
+
