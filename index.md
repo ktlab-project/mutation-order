@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+Ken Furudate
+2021-02-05
+
+## Welcome to our analysis
 
 You can use the [editor on GitHub](https://github.com/ktlab-project/mutation-order/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
