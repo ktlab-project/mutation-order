@@ -4,8 +4,8 @@ Ken Furudate
 ## Welcome to our analysis
 Here's how we analyzed the data in the [manuscript](https://github.com/ktlab-project/mutation-order).
 
-### Web appilication(web app)
-We have created a web app so that you can easily adapt the results of our analysis to your own patients. We strongly believe that if we can predict the next mutation in patients, it will lead to the risk stratification and the treatment strategies of pre-acquisition mutations targeting.
+### Web appilication
+We have created a web appilication(web app) so that you can easily adapt the results of our analysis to your own patients. We strongly believe that if we can predict the next mutation in patients, it will lead to the risk stratification and the treatment strategies of pre-acquisition mutations targeting.
 
 
 - First, select the name of the gene you are interested in from the initial mutations in the upper left box. It will then display interactive table that when the selected initial gene is obtained.
@@ -20,14 +20,12 @@ Here is the code and necessary files to use web app.
 This contains the code that accompany the manuscript. This codes were written in notebook(.ipynb) using Python and R.
 
 ```markdown
-
 numpy 1.19.5
 matplotlib 3.2.2
 pandas 1.1.5
 python 3.6.9
 R 3.6.2
 seaborn 0.11.1
-
 ```
 
 ### CONTACT
