@@ -3,7 +3,7 @@ Ken Furudate  2021-02-05
 ## Welcome to our analysis
 Here's how we analyzed the data in the [manuscript](https://github.com/ktlab-project/mutation-order).
 
-### Web appilication
+### WEBAPP
 We have created a web appilication(web app) so that you can easily adapt the results of our analysis to your own patients. We strongly believe that if we can predict the next mutation in patients, it will lead to the risk stratification and the treatment strategies of pre-acquisition mutations targeting.
 
 
@@ -15,7 +15,8 @@ We have created a web appilication(web app) so that you can easily adapt the res
 
 Here is the code and necessary files to use web app.
 
-### Navigation
+
+### NAVIGATION
 This contains the code that accompany the manuscript. This codes were written in notebook(.ipynb) using Python and R.
 
 ```markdown
@@ -28,8 +29,10 @@ seaborn 0.11.1
 sklearn 0.22.2.post1
 ```
 
-### Contact
+
+### CONTACT
 Please contact Principal Investigator, <ktakahashi@mdanderson.org> with any questions or suggestions.
 
-### Reference
+
+### REFERENCE
 - Lane, T., & DuMouchel, W. Simultaneous Confidence Intervals in Multiple Regression. The American Statistician 48, 315-321(1994).
