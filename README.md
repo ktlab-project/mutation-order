@@ -3,7 +3,7 @@ The landscape of mutation order probabilities in AML by single-cell DNA-sequenci
 
 
 ### OVERVIEW
-This page includes codes for processing dataset into the probabilities of mutation order that clonal hematopoiesis acquire mutations to contribute leukemogenesis, as described in our original paper. In addition, the Web Application is provided.
+This dipository includes codes for processing dataset into the probabilities of mutation order that clonal hematopoiesis acquire mutations to contribute leukemogenesis, as described in our original paper. In addition, the Web Application is provided.
 
 
 ### WEBAPP
