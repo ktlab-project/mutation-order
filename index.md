@@ -1,9 +1,11 @@
 Ken Furudate
+
 2021-02-05
 
 ## Welcome to our analysis
+Here's how we analyzed the data in the [manuscript](https://github.com/ktlab-project/mutation-order).
 
-You can use the [editor on GitHub](https://github.com/ktlab-project/mutation-order/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Please contact Principal Investigator, <ktakahashi@mdanderson.org> with any questions or suggestions.
 
 ### Markdown
 
