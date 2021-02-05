@@ -27,7 +27,7 @@ R 3.6.2
 seaborn 0.11.1
 ```
 
-### CONTACT
+### Contact
 Please contact Principal Investigator, <ktakahashi@mdanderson.org> with any questions or suggestions.
 
 ### Reference
