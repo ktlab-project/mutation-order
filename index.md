@@ -1,5 +1,4 @@
-Ken Furudate
-2021-02-05
+Ken Furudate  2021-02-05
 
 ## Welcome to our analysis
 Here's how we analyzed the data in the [manuscript](https://github.com/ktlab-project/mutation-order).
