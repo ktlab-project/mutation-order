@@ -25,9 +25,11 @@ pandas 1.1.5
 python 3.6.9
 R 3.6.2
 seaborn 0.11.1
+sklearn 0.22.2.post1
 ```
 
 ### Contact
 Please contact Principal Investigator, <ktakahashi@mdanderson.org> with any questions or suggestions.
 
 ### Reference
+- Lane, T., & DuMouchel, W. Simultaneous Confidence Intervals in Multiple Regression. The American Statistician 48, 315-321(1994).
