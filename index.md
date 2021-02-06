@@ -35,4 +35,7 @@ Please contact Principal Investigator, <ktakahashi@mdanderson.org> with any ques
 
 
 ### REFERENCE
+- Van de Schoot. et al. Bayesian statistics and modelling. Nat Rev Methods Primers 1, 1 (2021). 
+- Salvatier, J. et al. Probabilistic programming in Python using PyMC3. PeerJ Computer Science 2, e55(2016).
 - Lane, T., & DuMouchel, W. Simultaneous Confidence Intervals in Multiple Regression. The American Statistician 48, 315-321(1994).
+- A. Gelman, et al. Bayesian Data Analysis Third Edition (2013).
