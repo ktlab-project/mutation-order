@@ -1,10 +1,15 @@
 Ken Furudate  2021-02-05
 
 ## Welcome to our analysis
+The landscape of mutation order probabilities in AML by single-cell DNA-sequencing. Please refer to our publication for details.
 Here's how we analyzed the data in the [manuscript](https://github.com/ktlab-project/mutation-order).
 
+
+### OVERVIEW
+This dipository includes codes for processing dataset into the probabilities of mutation order that clonal hematopoiesis acquire mutations to contribute leukemogenesis, as described in our original paper. In addition, the Web Application is provided.
+
 ### WEBAPP
-We have created a web appilication(web app) so that you can easily adapt the results of our analysis to your own patients. We strongly believe that if we can predict the next mutation in patients, it will lead to the risk stratification and the treatment strategies of pre-acquisition mutations targeting.
+We have created a web appilication(web app) so that you can easily adapt the results of our analysis to your own patients. This map provides the novel perspectives firstly for risk stratification, secondly for treatment strategies of pre-acquisition mutations targeting, and thirdly would for predicting treatment response. We strongly believe that if we can predict the next mutation in patients, it will lead to the risk stratification and the treatment strategies of pre-acquisition mutations targeting.
 
 
 - First, select the name of the gene you are interested in from the initial mutations in the upper left box. It will then display interactive table that when the selected initial gene is obtained.
@@ -32,6 +37,10 @@ sklearn 0.22.2.post1
 
 ### CONTACT
 Please contact Principal Investigator, <ktakahashi@mdanderson.org> with any questions or suggestions.
+
+
+### LICENCE
+This project is under the MIT license - see the [LICENSE](https://github.com/ktlab-project/mutation-order/blob/main/LICENSE) in details.
 
 
 ### REFERENCE
