@@ -22,7 +22,7 @@ Here is the code and necessary files to use web app.
 
 
 ### NAVIGATION
-[This scripts](/muts_order_prob_calculate.html) that accompany the manuscript were written in notebook(.ipynb) using Python.
+[This source code](/muts_order_prob_calculate.html) that accompany the manuscript was written in notebook(.ipynb) using Python.
 
 ```markdown
 numpy 1.19.5
