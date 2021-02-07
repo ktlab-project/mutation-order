@@ -22,7 +22,7 @@ Here is the code and necessary files to use web app.
 
 
 ### NAVIGATION
-[This](mutation-order/muts_order_prob_calculate.html) contains the code that accompany the manuscript. This codes were written in notebook(.ipynb) using Python and R.
+[This](./mutation-order/muts_order_prob_calculate.html) contains the code that accompany the manuscript. This codes were written in notebook(.ipynb) using Python and R.
 
 ```markdown
 numpy 1.19.5
