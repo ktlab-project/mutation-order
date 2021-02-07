@@ -22,7 +22,7 @@ Here is the code and necessary files to use web app.
 
 
 ### NAVIGATION
-This contains the code that accompany the manuscript. This codes were written in notebook(.ipynb) using Python and R.
+[This](mutation-order/muts_order_prob_calculate.html) contains the code that accompany the manuscript. This codes were written in notebook(.ipynb) using Python and R.
 
 ```markdown
 numpy 1.19.5
@@ -46,5 +46,6 @@ This project is under the MIT license - see the [LICENSE](https://github.com/ktl
 ### REFERENCE
 - Van de Schoot. et al. Bayesian statistics and modelling. Nat Rev Methods Primers 1, 1 (2021). 
 - Salvatier, J. et al. Probabilistic programming in Python using PyMC3. PeerJ Computer Science 2, e55(2016).
-- Lane, T., & DuMouchel, W. Simultaneous Confidence Intervals in Multiple Regression. The American Statistician 48, 315-321(1994).
+- Sison, C.P and Glaz, J. Simultaneous confidence intervals and sample size determination for multinomial proportions. Journal of the American Statistical Association 90, 366-369 (1995).
 - Gelman, A. et al. Bayesian Data Analysis Third Edition (2013).
+- Bishop, CM. Pattern recognition and machine learning. Springer. (2006).
